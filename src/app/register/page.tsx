@@ -22,7 +22,7 @@ export default async function RegisterPage({
     <div className="flex min-h-[calc(100vh-4rem)] items-center justify-center px-4 py-12">
       <Card className="w-full max-w-md border-border/50 bg-card/50">
         <CardHeader className="text-center">
-          <CardTitle className="text-2xl">Join The Gameboard</CardTitle>
+          <CardTitle className="text-2xl">Join QuestHouse</CardTitle>
           <CardDescription>Create your player account.</CardDescription>
         </CardHeader>
         <CardContent>

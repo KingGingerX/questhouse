@@ -1,7 +1,7 @@
 import { Resend } from "resend";
 
 const apiKey = process.env.RESEND_API_KEY;
-const from = process.env.RESEND_FROM ?? "noreply@thegameboard.app";
+const from = process.env.RESEND_FROM ?? "noreply@questhouse.app";
 
 const resend = apiKey ? new Resend(apiKey) : null;
 
@@ -30,7 +30,7 @@ export async function sendQuestJoinEmail(
     `Someone joined your quest: ${questTitle}`,
     `<p>Hi ${creatorName},</p>
 <p><strong>${payerName}</strong> just joined your quest <strong>${questTitle}</strong> and paid ${dollars} into escrow.</p>
-<p>Log in to The Gameboard to view the quest and track progress.</p>`
+<p>Log in to QuestHouse to view the quest and track progress.</p>`
   );
 }
 

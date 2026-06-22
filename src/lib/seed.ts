@@ -14,7 +14,7 @@ export async function seedDatabase() {
     gameMaster = await prisma.user.create({
       data: {
         name: "The Game Master",
-        email: "gamemaster@gameboard.com",
+        email: "gamemaster@questhouse.com",
         password: hashed,
         role: "GAMEMASTER",
         reputation: 999,

@@ -15,7 +15,7 @@ export default async function LoginPage() {
       <Card className="w-full max-w-md border-border/50 bg-card/50">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl">Welcome back, player</CardTitle>
-          <CardDescription>Log in to enter The Gameboard.</CardDescription>
+          <CardDescription>Log in to enter QuestHouse.</CardDescription>
         </CardHeader>
         <CardContent>
           <form

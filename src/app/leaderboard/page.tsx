@@ -32,7 +32,7 @@ export default async function LeaderboardPage() {
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
       <div className="mb-8 text-center">
         <h1 className="text-3xl font-bold tracking-tight">Leaderboards</h1>
-        <p className="text-muted-foreground">The best players on The Gameboard.</p>
+        <p className="text-muted-foreground">The best players on QuestHouse.</p>
       </div>
 
       <div className="grid gap-6 md:grid-cols-2">

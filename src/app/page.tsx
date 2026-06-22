@@ -33,7 +33,7 @@ export default function Home() {
             Trade everything.
           </h1>
           <p className="mx-auto mb-10 max-w-2xl text-lg text-muted-foreground sm:text-xl">
-            The Gameboard is a gamified peer-to-peer arena. Post quests,
+            QuestHouse is a gamified peer-to-peer arena. Post quests,
             accept challenges, sell goods, or make bets. Every move pays
             the Game Master.
           </p>
@@ -65,7 +65,7 @@ export default function Home() {
         <div className="mx-auto max-w-6xl">
           <div className="mb-12 text-center">
             <h2 className="mb-3 text-3xl font-bold tracking-tight">
-              How the Gameboard works
+              How QuestHouse works
             </h2>
             <p className="text-muted-foreground">
               Create, compete, complete. The Game Master facilitates and takes a

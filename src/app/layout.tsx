@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Gameboard — Play. Trade. Win.",
+  title: "QuestHouse — Play. Trade. Win.",
   description:
-    "The Gameboard is a gamified peer-to-peer arena where anyone can post quests, accept challenges, trade goods, and transact. The house always wins.",
+    "QuestHouse is a gamified peer-to-peer arena where anyone can post quests, accept challenges, trade goods, and transact. The house always wins.",
 };
 
 export default function RootLayout({

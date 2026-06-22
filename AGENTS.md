@@ -4,7 +4,7 @@
 This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
 <!-- END:nextjs-agent-rules -->
 
-# The Gameboard
+# QuestHouse
 
 A gamified peer-to-peer marketplace/arena. Players post Quests (services, challenges, items, bets, experiences), other players join and pay into escrow, and the Game Master (the house) takes a percentage rake on every transaction.
 
@@ -23,7 +23,7 @@ A gamified peer-to-peer marketplace/arena. Players post Quests (services, challe
 
 ## Seeding
 POST to `/api/seed` (idempotent) to create:
-- Default Game Master account: `gamemaster@gameboard.com` / `gamemaster123`
+- Default Game Master account: `gamemaster@questhouse.com` / `gamemaster123`
 - Sample players and quests
 
 ## Key Files

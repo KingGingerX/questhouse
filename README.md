@@ -1,8 +1,8 @@
-# The Gameboard
+# QuestHouse
 
 > A gamified peer-to-peer marketplace where the house always wins.
 
-The Gameboard is a platform for quests, challenges, bets, services, items, and experiences. Players transact directly with each other; the Game Master (you) takes a percentage of every transaction.
+QuestHouse is a platform for quests, challenges, bets, services, items, and experiences. Players transact directly with each other; the Game Master (you) takes a percentage of every transaction.
 
 ## Features
 
@@ -35,7 +35,7 @@ Then open [http://localhost:3000](http://localhost:3000).
 
 After seeding, log in as the Game Master:
 
-- Email: `gamemaster@gameboard.com`
+- Email: `gamemaster@questhouse.com`
 - Password: `gamemaster123`
 
 ### Default Sample Players

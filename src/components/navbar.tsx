@@ -21,7 +21,7 @@ export async function Navbar() {
         <Link href="/" className="flex items-center gap-2 text-primary">
           <Dice5 className="h-7 w-7" />
           <span className="text-xl font-bold tracking-tight text-foreground">
-            The Gameboard
+            QuestHouse
           </span>
         </Link>
 
